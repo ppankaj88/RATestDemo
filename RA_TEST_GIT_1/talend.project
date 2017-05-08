@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_DaJlwTPqEeeWQ4O06X8sxQ" label="Ra_Test_GIT_1" description="" language="java" technicalLabel="RA_TEST_GIT_1" creationDate="2017-05-08T17:54:04.800+0530" author="_DaJlwjPqEeeWQ4O06X8sxQ" productVersion="TIBCO Jaspersoft ETL-6.2.1.20160704_1411" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/ppankaj88/RATestDemo.git&quot;,&quot;login&quot;:&quot;pankaj.pandey@zafin.com&quot;,&quot;passwd&quot;:&quot;3filt3mhxQ5/8x7Gfkco5w==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI"/>
+  <TalendProperties:User xmi:id="_DaJlwjPqEeeWQ4O06X8sxQ" login="pankaj.pandey@zafin.com" firstName="pankaj" lastName="pandey" type="DI" additionnalData="{}"/>
+</xmi:XMI>
